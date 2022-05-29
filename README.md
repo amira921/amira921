@@ -5,7 +5,7 @@
   
 🎓 Third Year Student (**Senior Year**).  </br>
 🏛 Faculty of **Computer & Information Sciences**, **Helwan** University, **Cairo**. </br>
-🏡 Lives in Cairo, Egypt (🇪🇬). <br>
+🏡 Lives in Cairo, Egypt. <br>
 
 - Huawei Certified ICT Associate-Artificial Intelligence - ( HCIA-AI )
 - Certified Machine Learning Using SAS Viya
@@ -14,9 +14,9 @@
 - Problem Solving Skills.
 - Good knowledge of Algorithms and Data Structures.
 - Good knowledge of Digital Image Processing.
-- Good understaning of Desktop Apps.
-- Good understaning of Website Development.
-- Well practised in Frontend Web interfaces.
+- Good understanding  of Desktop Apps.
+- Good understanding  of Website Development.
+- Well practiced  in Frontend Web interfaces.
 
 </br>
 
