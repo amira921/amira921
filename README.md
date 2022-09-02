@@ -3,7 +3,7 @@
 
 <h2> About </h2>
   
-🎓 Third Year Student (**Senior Year**).  </br>
+🎓 Senior Student.  </br>
 🏛 Faculty of **Computer & Information Sciences**, **Helwan** University, **Cairo**. </br>
 🏡 Lives in Cairo, Egypt. <br>
 
@@ -22,6 +22,7 @@
 
 <h2> Work Experience </h2>
 
+- Machine Learning Intern ([Technocolabs](https://technocolabs.com/))
 - Machine Learning Trainee ( [ Information Technology Institute ( iTi ) ](https://www.iti.gov.eg/iti/home))
 - AI Trainee ( [ National Telecommunication Institute ( NTI ) ](https://www.nti.sci.eg/) )
 
@@ -42,25 +43,28 @@
 
 <h2> Projects </h2>
  
-|              Machine Learning                   |   [Brain Tumor Classification](https://github.com/amira921/Brain-Tumor-Classification) |
+|              Machine Learning                   |   [Brain Tumor Classification](https://github.com/amira921/Brain-Tumor-Classification) & [Deployment-Startup-Acquisition-Status-Prediction](https://github.com/amira921/Deployment-Startup-Acquisition-Status-Prediction)|
 | :-------------------------------------: | :-------------------------------------: |
 
-|             Digital Image Processing          |    [ Digital Image Processing]()     |
+|             Digital Image Processing          |    [ Filters-Image-Processing](https://github.com/amira921/Filters-Image-Processing)     |
 |:----------------------------------: | :---------------------------------------------: |
 
-|             Website             |        [Dashboard]()     |
+|             Website             |        []()     |
 |:----------------------------------: | :---------------------------------------------: |
 
 |             Desktop               |        [Healthcare-Management-System](https://github.com/amira921/Healthcare-Management-System)   &   [Liberary-Management-System](https://github.com/amira921/Library-Management-System) |
 | :-------------------------------------: | :-------------------------------------: |
 
-|    Operating System   |       [File Manager](https://github.com/amira921/File-Manager) | 
+|    Operating System   |       [Simple File Manager](https://github.com/amira921/Simple-File-Manager) | 
 |:----------------------------------: | :---------------------------------------------: |
 
 |  Others (Problem Solving & Individual Tasks) |       [HackerRank-10-Days-of-Statistics](https://github.com/amira921/HackerRank-10-Days-of-Statistics)   |
 |:----------------------------------: | :---------------------------------------------: |
 
 |             Arduino              |        [Measure Your Pulse at Home](https://github.com/amira921/Measure-your-pulse-at-home)     |
+|:----------------------------------: | :---------------------------------------: |
+
+|             Software Requirement Specification              |        [e-Bug-Tracker-System-SRS](https://github.com/amira921/e-Bug-Tracker-System-SRS)     |
 |:----------------------------------: | :---------------------------------------: |
  
  
