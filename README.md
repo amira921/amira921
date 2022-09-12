@@ -58,7 +58,7 @@
 |    Operating System   |       [Simple File Manager](https://github.com/amira921/Simple-File-Manager) | 
 |:----------------------------------: | :---------------------------------------------: |
 
-|  Others (Problem Solving & Individual Tasks) |       [HackerRank-10-Days-of-Statistics](https://github.com/amira921/HackerRank-10-Days-of-Statistics)   |
+|  Others (Problem Solving & Individual Tasks) |       [HackerRank-10-Days-of-Statistics](https://github.com/amira921/HackerRank-10-Days-of-Statistics) & [LeetCode Problems](https://github.com/amira921/LeetCode-Problems)  |
 |:----------------------------------: | :---------------------------------------------: |
 
 |             Arduino              |        [Measure Your Pulse at Home](https://github.com/amira921/Measure-your-pulse-at-home)     |
