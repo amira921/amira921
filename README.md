@@ -28,7 +28,7 @@
 
 </br>
 
-| [Show Resume](https://drive.google.com/file/d/11YEbTfbH8qghTT7XUhnHRE901ULyatz4/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/1SCBjUGCDiIwj7hCPWwj8_AA73n8v7uwa/view?usp=sharing) |
 | :-------------------------------------: |
 
 </br>
@@ -75,7 +75,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amira-taha-03b892206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amira-taha-03b892206" height="30" width="40" /></a>
-<a href="https://kaggle.com/amirataha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amirataha" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amirataha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amirataha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amirataha798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amirataha798" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/am24ira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="am24ira" height="30" width="40" /></a>
 
