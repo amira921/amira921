@@ -28,7 +28,7 @@
 
 </br>
 
-| [Show Resume](https://drive.google.com/file/d/1IZcwzPbyZUyYYt9lc4XQsVhEcHUGAvkN/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/1TQ7nDvso2ZctmRrMhGvFqiv6oYsXIISW/view?usp=sharing) |
 | :-------------------------------------: |
 
 </br>
