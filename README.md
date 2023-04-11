@@ -21,14 +21,14 @@
 </br>
 
 <h2> Work Experience </h2>
-
+- Computer Science Instructor ([iSchool](https://www.ischooltech.com/))
 - Machine Learning Intern ([Technocolabs](https://technocolabs.com/))
 - Machine Learning Trainee ( [ Information Technology Institute ( iTi ) ](https://www.iti.gov.eg/iti/home))
 - AI Trainee ( [ National Telecommunication Institute ( NTI ) ](https://www.nti.sci.eg/) )
 
 </br>
 
-| [Show Resume](https://drive.google.com/file/d/1totqoNus4wkRqoFLFtKrnOO_HL6TIPAN/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/1zZ0ui6wNUX961PEyS31W4sAjmwYr1sXv/view?usp=sharing) |
 | :-------------------------------------: |
 
 </br>
