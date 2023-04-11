@@ -21,6 +21,7 @@
 </br>
 
 <h2> Work Experience </h2>
+
 - Computer Science Instructor ([iSchool](https://www.ischooltech.com/))
 - Machine Learning Intern ([Technocolabs](https://technocolabs.com/))
 - Machine Learning Trainee ( [ Information Technology Institute ( iTi ) ](https://www.iti.gov.eg/iti/home))
