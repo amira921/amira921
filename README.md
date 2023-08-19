@@ -3,7 +3,6 @@
 
 <h2> About </h2>
   
-🎓 Senior Student.  </br>
 🏛 Faculty of **Computer & Information Sciences**, **Helwan** University, **Cairo**. </br>
 🏡 Lives in Cairo, Egypt. <br>
 
@@ -29,7 +28,7 @@
 
 </br>
 
-| [Show Resume](https://drive.google.com/file/d/1zZ0ui6wNUX961PEyS31W4sAjmwYr1sXv/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/1kYPjYnCL-P_cQk0jp0KeoHe6TqwDsnZn/view?usp=sharing) |
 | :-------------------------------------: |
 
 </br>
