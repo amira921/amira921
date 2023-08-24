@@ -2,9 +2,9 @@
 <h3 align="center">Junior Software Engineer</h3>
 
 <h2> About </h2>
-  
-🏛 Faculty of **Computer & Information Sciences**, **Helwan** University, **Cairo**. </br>
-🏡 Lives in Cairo, Egypt. <br>
+Highly motivated Computer Science graduate with experience in teaching software. Seeking a challenging role
+as a Software Engineer where I can leverage my skills in software development and Artificial Intelligence to
+develop innovative solutions with a continuous learning team to improve business operations.
 
 - Huawei Certified ICT Associate-Artificial Intelligence - ( HCIA-AI )
 - Certified Machine Learning Using SAS Viya
@@ -28,7 +28,7 @@
 
 </br>
 
-| [Show Resume](https://drive.google.com/file/d/1wCeeAUl1pfTtvnCE_o4sBMmQGc_-m8Ic/view?usp=sharing) |
+| [Show Resume](https://drive.google.com/file/d/16MZ99ZRnBMeekPNhyC56Y5XYiahVHgZI/view?usp=sharing) |
 | :-------------------------------------: |
 
 </br>
