@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, It's Amira !</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Junior Backend Software Engineer</h3>
+
+
+- 🔭 I’m currently working on **TodoList Website using Spring Framework**
+
+- 🌱 I’m currently learning **Spring Framework**
+
+- 📙 I read these books
+  - OCA Oracle Certified Associate Java SE 8 Programmer I
+  - OCP Oracle Certified Professional Java SE 8 Programmer II
+  - Spring start here
+  
+- 👯 I’m looking to collaborate on **projects that combine AI with Web Applications.**
+
+- 📫 How to reach me **amirataha798@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K0SUeaLLXoLSfMal-Yz97OAuM13TGU4A/view?usp=sharing)
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira921&layout=compact&theme=" alt=amira921 />
@@ -11,30 +28,6 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amira921&theme=2077" height="180em" />
 </div>
 
-<h2> About </h2>
-Highly motivated Computer Science graduate with experience in teaching software. Seeking a challenging role
-as a Software Engineer where I can leverage my skills in software development and Artificial Intelligence to
-develop innovative solutions with a continuous learning team to improve business operations.
-
-</br>
-
-<h2> Work Experience </h2>
-
-- Computer Science Instructor @ [iSchool](https://www.ischooltech.com/)
-- Machine Learning Intern @ [Technocolabs](https://technocolabs.com/)
-- Machine Learning Trainee @ [ Information Technology Institute ( iTi ) ](https://www.iti.gov.eg/iti/home)
-- AI Trainee @ [ National Telecommunication Institute ( NTI ) ](https://www.nti.sci.eg/) 
-
-</br>
-
-| [Show Resume](https://drive.google.com/file/d/1AwhBSG9QEvkwov-cLPa4dFl9opHmgiYL/view?usp=drive_link) |
-| :-------------------------------------: |
-
-<h2> Languages </h2>
-
-- Arabic -> Native
-- English -> Full Proficiency 
-- German -> Elementary Proficiency
  
  <br>
 <h3 align="left">Languages and Tools:</h3>
