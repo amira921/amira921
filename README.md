@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, It's Amira !</h1>
 <h3 align="center">Junior Backend Software Engineer</h3>
 
-
-- 🔭 I’m currently working on **TodoList Website using Spring Framework**
-
 - 🌱 I’m currently learning **Spring Framework**
 
 - 📙 I read these books
@@ -19,13 +16,11 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amira921&layout=compact&theme=" alt=amira921 />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amira921&theme=" alt="amira921" />
 </div>
 
 <div align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amira921&theme=2077" height="180em" />
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amira921&theme=2077" height="180em" />
 </div>
 
  
