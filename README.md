@@ -3,17 +3,16 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📙 I am reading these books
+- 📙 I read these books
   - OCA Oracle Certified Associate Java SE 8 Programmer I
   - OCP Oracle Certified Professional Java SE 8 Programmer II
-  - Grokking Algorithms
   - Spring start here
   
 - 👯 I’m looking to collaborate on **projects that combine AI with Web Applications.**
 
 - 📫 How to reach me **amirataha798@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K0SUeaLLXoLSfMal-Yz97OAuM13TGU4A/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kEy0IqZzkJzYsqGP-bfwnOS5yNa6SA3V/view?usp=drive_link)
 
 
 <div align="center">
