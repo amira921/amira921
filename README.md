@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Amira !</h1>
 <h3 align="center">Junior Backend Software Engineer</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Security and Microservices**
 
 - 📙 I read these books
   - OCA Oracle Certified Associate Java SE 8 Programmer I
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amirataha798@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kEy0IqZzkJzYsqGP-bfwnOS5yNa6SA3V/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1njBb92GfEyga9zKeAu_wOenToNmnq-28/view?usp=sharing)
 
 
 <div align="center">
