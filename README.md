@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **amirataha798@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1njBb92GfEyga9zKeAu_wOenToNmnq-28/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zEOyJY-79FXRy1cryOSYC4cVyoU51M30/view?usp=sharing)
 
 
 <div align="center">
