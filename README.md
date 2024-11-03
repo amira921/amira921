@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **System Design and Architecture**
 
+- 📙 I'm currently reading these books
+  - Fundamentals of database systems
+  - Designing Data-Intensive Applications
+  
 - 📙 I read these books
   - OCA Oracle Certified Associate Java SE 8 Programmer I
   - OCP Oracle Certified Professional Java SE 8 Programmer II
   - Spring start here
-  - Designing Data-Intensive Applications
   
 - 👯 I’m looking to collaborate on **projects that combine AI with Web Applications.**
 
