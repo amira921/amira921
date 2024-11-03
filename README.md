@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, It's Amira !</h1>
 <h3 align="center">Junior Backend Software Engineer</h3>
 
-- 🌱 I’m currently learning **Spring Security and Microservices**
+- 🌱 I’m currently learning **System Design and Architecture**
 
 - 📙 I read these books
   - OCA Oracle Certified Associate Java SE 8 Programmer I
   - OCP Oracle Certified Professional Java SE 8 Programmer II
   - Spring start here
+  - Designing Data-Intensive Applications
   
 - 👯 I’m looking to collaborate on **projects that combine AI with Web Applications.**
 
