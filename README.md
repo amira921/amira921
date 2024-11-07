@@ -16,9 +16,6 @@
 
 - 📫 How to reach me **amirataha798@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CkEGBiqt52sn0_tdx8IZHqZJbuy484I-/view?usp=sharing)
-
-
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amira921&theme="  />
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amira921&theme=2077" height="180em" />
